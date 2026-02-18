@@ -1,0 +1,6 @@
+streamlit
+transparent-background
+pillow
+torch
+torchvision
+numpy
